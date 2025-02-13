@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name's Yannick. I'm currently in school at the Metis Montessori Lyceum in Amsterdam. My favorite class is between German and Coderclass.
+My favorite programming language is C#.
 The first computer I owned was an Acer laptop from 2013. **SPECS:**
 - Intel 7700HQ CPU
 - 8GB's of RAM
